@@ -1,2 +1,2 @@
-# GaiaDR3-StarClassifier
-Leveraging Gaia satellite data to classify stars into main sequence, giants, and white dwarfs using clustering and decision trees.
+# Machine Learning-Driven Star Classification Using Gaia Data 🌌🔭
+*Classifying stars into populations using Gaia DR3 data and machine learning.*  
